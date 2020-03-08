@@ -1,0 +1,6 @@
+rootProject.name = 'kotlin-multiproject-sample'
+include 'sample-application'
+include 'sample-cli'
+include 'sample-domain'
+include 'sample-infrastructure'
+include 'sample-web'

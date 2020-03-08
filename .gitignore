@@ -1,0 +1,18 @@
+# IDEA
+.idea
+*.iml
+bin
+out
+gen
+
+# Gradle
+.gradle
+build
+gradle.properties
+
+# Reports
+reports
+
+# Others
+*~
+.DS_Store
